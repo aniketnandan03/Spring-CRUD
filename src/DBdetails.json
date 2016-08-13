@@ -1,0 +1,14 @@
+{
+	office:  {
+		database : "sample",
+		username : "aniketnandan",
+		password : "5tYPUcaRyrYd6P8d"
+	},
+	
+	home: {
+		database : "sample",
+		username : "aniketnandan",
+		password : "4VT5WECnLLfCz8ZG"
+	}
+	
+}
